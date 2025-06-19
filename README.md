@@ -12,6 +12,6 @@ How to do data visualization and machine learning on AEP hourly power consumptio
 
 5. Plot box, grouped average, and heat map plots.
 
-6. With Long Short-Term Memory model, do input single feature (power consumption) to forecast the next 30 days power consumption. The input length is 720 hours, and output length is 720 hours.
+6. With Long Short-Term Memory model, do input single feature (power consumption) to forecast the next 30 days power consumption. The input length is 8760 hours, and output length is 720 hours.
 
-7. With Long Short-Term Memory model, do input multi features (power consumption, Hour, DayOfWeek, Month, DayOfMonth, and Weekend) to forecast the next 30 days power consumption. The input length is 720 hours, and output length is 720 hours.
+7. With Long Short-Term Memory model, do input multi features (power consumption, Hour, DayOfWeek, Month, DayOfMonth, and Weekend) to forecast the next 30 days power consumption. The input length is 8760 hours, and output length is 720 hours.
